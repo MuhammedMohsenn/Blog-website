@@ -1,2 +1,2 @@
-# Template-3
-Template 3, made by following El zero web school
+# Blog Website
+Blog Website, built using HTML and Css, by following El zero web school.
